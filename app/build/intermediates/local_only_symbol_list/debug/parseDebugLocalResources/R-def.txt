@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+id checkBtn
+id startBtn
+id statusText
+layout activity_main
+string app_name
+style Theme.RemoteControlTest
