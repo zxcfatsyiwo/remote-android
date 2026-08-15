@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+id gameView
+id restartBtn
+id scoreText
+id snakeBtn
+id statusText
+layout activity_main
+layout activity_snake
+string app_name
+string service_started
+style Theme.MyRootSql

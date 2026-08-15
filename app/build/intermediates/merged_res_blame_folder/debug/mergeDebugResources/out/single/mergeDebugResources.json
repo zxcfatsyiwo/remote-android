@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.myrootsql.app-debug-24:/layout_activity_main.xml.flat",
+        "source": "com.example.myrootsql.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myrootsql.app-debug-24:/layout_activity_snake.xml.flat",
+        "source": "com.example.myrootsql.app-main-26:/layout/activity_snake.xml"
+    }
+]
